@@ -1,4 +1,4 @@
-### Welcome to Chirag's Github profile 👋
+### Welcome to Prashant Singh's Github profile 👋
 
 <br/>
 
