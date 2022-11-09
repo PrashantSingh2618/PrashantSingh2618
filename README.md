@@ -14,7 +14,7 @@
 
 <br/>
 
-Hi, I'm Prashant Singh, a competitive-programmer and a DSA Mentor, while i have good experience around web App Development, currently exploring react-native for mobile app development 📱from India. Also enthusiatic about backend and love doing random POC's around it.
+Hi, I'm Prashant Singh, an Indian, a competitive-programmer and a DSA Mentor, while i have good experience around web App Development, currently exploring react-native for mobile app development 📱. Also enthusiatic about backend and love doing random POC's around it.
 I like to hustle and write neat code.
 
 <img align="right" alt="GIF" width="350px" src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47fp8v7trp0uj26inq5zyyeyelwvuvc3a8p8xuti12&rid=giphy.gif&ct=g" />
